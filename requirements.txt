@@ -1,0 +1,7 @@
+flask==2.3.2
+sentence-transformers==2.2.2
+numpy==1.23.5
+torch==1.13.1 --index-url https://download.pytorch.org/whl/cpu
+huggingface-hub==0.16.4  
+transformers==4.26.1
+setuptools==65.5.1
